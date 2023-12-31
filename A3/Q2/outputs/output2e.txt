@@ -1,0 +1,295 @@
+Epoch 0/500 - Loss: 1.8558
+Epoch 10/500 - Loss: 0.8375
+Epoch 20/500 - Loss: 0.7892
+Epoch 30/500 - Loss: 0.7675
+Epoch 40/500 - Loss: 0.7544
+Epoch 50/500 - Loss: 0.7455
+Epoch 60/500 - Loss: 0.7390
+Epoch 70/500 - Loss: 0.7340
+Epoch 80/500 - Loss: 0.7300
+Epoch 90/500 - Loss: 0.7266
+Epoch 100/500 - Loss: 0.7238
+Epoch 110/500 - Loss: 0.7214
+Epoch 120/500 - Loss: 0.7192
+Epoch 130/500 - Loss: 0.7173
+Epoch 140/500 - Loss: 0.7156
+Epoch 150/500 - Loss: 0.7141
+Epoch 160/500 - Loss: 0.7127
+Epoch 170/500 - Loss: 0.7114
+Epoch 180/500 - Loss: 0.7102
+Epoch 190/500 - Loss: 0.7090
+Epoch 200/500 - Loss: 0.7080
+Epoch 210/500 - Loss: 0.7070
+Epoch 220/500 - Loss: 0.7061
+Epoch 230/500 - Loss: 0.7052
+Epoch 240/500 - Loss: 0.7044
+Epoch 250/500 - Loss: 0.7036
+Epoch 260/500 - Loss: 0.7029
+Epoch 270/500 - Loss: 0.7022
+Epoch 280/500 - Loss: 0.7015
+Epoch 290/500 - Loss: 0.7008
+Epoch 300/500 - Loss: 0.7002
+Epoch 310/500 - Loss: 0.6996
+Epoch 320/500 - Loss: 0.6990
+Epoch 330/500 - Loss: 0.6984
+Epoch 340/500 - Loss: 0.6979
+Epoch 350/500 - Loss: 0.6973
+Epoch 360/500 - Loss: 0.6968
+Epoch 370/500 - Loss: 0.6963
+Epoch 380/500 - Loss: 0.6958
+Epoch 390/500 - Loss: 0.6954
+Epoch 400/500 - Loss: 0.6949
+Epoch 410/500 - Loss: 0.6944
+Epoch 420/500 - Loss: 0.6940
+Epoch 430/500 - Loss: 0.6936
+Epoch 440/500 - Loss: 0.6932
+Epoch 450/500 - Loss: 0.6927
+Epoch 460/500 - Loss: 0.6924
+Epoch 470/500 - Loss: 0.6920
+Epoch 480/500 - Loss: 0.6916
+Epoch 490/500 - Loss: 0.6912
+Epoch 500/500 - Loss: 0.6908
+For hidden_size: [512]:
+Train scores:-
+              precision    recall  f1-score   support
+
+           1       0.90      0.88      0.89      2019
+           2       0.73      0.70      0.71      2069
+           3       0.59      0.58      0.59      1980
+           4       0.47      0.56      0.51      1680
+           5       0.78      0.73      0.75      2252
+
+    accuracy                           0.69     10000
+   macro avg       0.69      0.69      0.69     10000
+weighted avg       0.70      0.69      0.70     10000
+
+Test scores:-
+              precision    recall  f1-score   support
+
+           1       0.90      0.90      0.90       228
+           2       0.70      0.67      0.68       209
+           3       0.53      0.57      0.55       183
+           4       0.51      0.50      0.51       191
+           5       0.70      0.69      0.70       189
+
+    accuracy                           0.68      1000
+   macro avg       0.67      0.67      0.67      1000
+weighted avg       0.68      0.68      0.68      1000
+
+Time taken for [512]= 1286.7354109287262
+Epoch 0/500 - Loss: 1.7545
+Epoch 10/500 - Loss: 0.7862
+Epoch 20/500 - Loss: 0.7486
+Epoch 30/500 - Loss: 0.7337
+Epoch 40/500 - Loss: 0.7252
+Epoch 50/500 - Loss: 0.7194
+Epoch 60/500 - Loss: 0.7151
+Epoch 70/500 - Loss: 0.7118
+Epoch 80/500 - Loss: 0.7090
+Epoch 90/500 - Loss: 0.7065
+Epoch 100/500 - Loss: 0.7044
+Epoch 110/500 - Loss: 0.7025
+Epoch 120/500 - Loss: 0.7007
+Epoch 130/500 - Loss: 0.6991
+Epoch 140/500 - Loss: 0.6977
+Epoch 150/500 - Loss: 0.6963
+Epoch 160/500 - Loss: 0.6951
+Epoch 170/500 - Loss: 0.6938
+Epoch 180/500 - Loss: 0.6926
+Epoch 190/500 - Loss: 0.6915
+Epoch 200/500 - Loss: 0.6905
+Epoch 210/500 - Loss: 0.6894
+Epoch 220/500 - Loss: 0.6884
+Epoch 230/500 - Loss: 0.6874
+Epoch 240/500 - Loss: 0.6865
+Epoch 250/500 - Loss: 0.6856
+Epoch 260/500 - Loss: 0.6847
+Epoch 270/500 - Loss: 0.6839
+Epoch 280/500 - Loss: 0.6831
+Epoch 290/500 - Loss: 0.6823
+Epoch 300/500 - Loss: 0.6815
+Epoch 310/500 - Loss: 0.6808
+Epoch 320/500 - Loss: 0.6800
+Epoch 330/500 - Loss: 0.6793
+Epoch 340/500 - Loss: 0.6786
+Epoch 350/500 - Loss: 0.6779
+Epoch 360/500 - Loss: 0.6772
+Epoch 370/500 - Loss: 0.6766
+Epoch 380/500 - Loss: 0.6759
+Epoch 390/500 - Loss: 0.6753
+Epoch 400/500 - Loss: 0.6747
+Epoch 410/500 - Loss: 0.6740
+Epoch 420/500 - Loss: 0.6734
+Epoch 430/500 - Loss: 0.6729
+Epoch 440/500 - Loss: 0.6723
+Epoch 450/500 - Loss: 0.6718
+Epoch 460/500 - Loss: 0.6712
+Epoch 470/500 - Loss: 0.6706
+Epoch 480/500 - Loss: 0.6700
+Epoch 490/500 - Loss: 0.6695
+Epoch 500/500 - Loss: 0.6689
+For hidden_size: [512, 256]:
+Train scores:-
+              precision    recall  f1-score   support
+
+           1       0.92      0.88      0.90      2041
+           2       0.74      0.71      0.73      2080
+           3       0.60      0.60      0.60      1943
+           4       0.47      0.57      0.51      1651
+           5       0.80      0.73      0.76      2285
+
+    accuracy                           0.70     10000
+   macro avg       0.70      0.70      0.70     10000
+weighted avg       0.72      0.70      0.71     10000
+
+Test scores:-
+              precision    recall  f1-score   support
+
+           1       0.92      0.91      0.92       232
+           2       0.71      0.68      0.70       207
+           3       0.52      0.57      0.55       182
+           4       0.49      0.50      0.50       183
+           5       0.72      0.69      0.70       196
+
+    accuracy                           0.68      1000
+   macro avg       0.67      0.67      0.67      1000
+weighted avg       0.69      0.68      0.69      1000
+
+Time taken for [512, 256]= 2241.1546807289124
+Epoch 0/500 - Loss: 1.6583
+Epoch 10/500 - Loss: 0.7679
+Epoch 20/500 - Loss: 0.7387
+Epoch 30/500 - Loss: 0.7277
+Epoch 40/500 - Loss: 0.7197
+Epoch 50/500 - Loss: 0.7141
+Epoch 60/500 - Loss: 0.7099
+Epoch 70/500 - Loss: 0.7070
+Epoch 80/500 - Loss: 0.7050
+Epoch 90/500 - Loss: 0.7032
+Epoch 100/500 - Loss: 0.7008
+Epoch 110/500 - Loss: 0.6984
+Epoch 120/500 - Loss: 0.6962
+Epoch 130/500 - Loss: 0.6941
+Epoch 140/500 - Loss: 0.6922
+Epoch 150/500 - Loss: 0.6904
+Epoch 160/500 - Loss: 0.6887
+Epoch 170/500 - Loss: 0.6872
+Epoch 180/500 - Loss: 0.6857
+Epoch 190/500 - Loss: 0.6843
+Epoch 200/500 - Loss: 0.6830
+Epoch 210/500 - Loss: 0.6817
+Epoch 220/500 - Loss: 0.6804
+Epoch 230/500 - Loss: 0.6792
+Epoch 240/500 - Loss: 0.6780
+Epoch 250/500 - Loss: 0.6769
+Epoch 260/500 - Loss: 0.6758
+Epoch 270/500 - Loss: 0.6747
+Epoch 280/500 - Loss: 0.6737
+Epoch 290/500 - Loss: 0.6728
+Epoch 300/500 - Loss: 0.6718
+Epoch 310/500 - Loss: 0.6706
+Epoch 320/500 - Loss: 0.6695
+Epoch 330/500 - Loss: 0.6684
+Epoch 340/500 - Loss: 0.6674
+Epoch 350/500 - Loss: 0.6665
+Epoch 360/500 - Loss: 0.6656
+Epoch 370/500 - Loss: 0.6646
+Epoch 380/500 - Loss: 0.6638
+Epoch 390/500 - Loss: 0.6629
+Epoch 400/500 - Loss: 0.6621
+Epoch 410/500 - Loss: 0.6612
+Epoch 420/500 - Loss: 0.6603
+Epoch 430/500 - Loss: 0.6595
+Epoch 440/500 - Loss: 0.6586
+Epoch 450/500 - Loss: 0.6578
+Epoch 460/500 - Loss: 0.6569
+Epoch 470/500 - Loss: 0.6561
+Epoch 480/500 - Loss: 0.6554
+Epoch 490/500 - Loss: 0.6547
+Epoch 500/500 - Loss: 0.6540
+For hidden_size: [512, 256, 128]:
+Train scores:-
+              precision    recall  f1-score   support
+
+           1       0.91      0.89      0.90      2019
+           2       0.76      0.71      0.73      2109
+           3       0.56      0.63      0.59      1741
+           4       0.48      0.56      0.52      1720
+           5       0.83      0.72      0.77      2411
+
+    accuracy                           0.71     10000
+   macro avg       0.71      0.70      0.70     10000
+weighted avg       0.72      0.71      0.71     10000
+
+Test scores:-
+              precision    recall  f1-score   support
+
+           1       0.93      0.91      0.92       234
+           2       0.72      0.72      0.72       199
+           3       0.54      0.62      0.58       172
+           4       0.52      0.52      0.52       185
+           5       0.77      0.69      0.73       210
+
+    accuracy                           0.70      1000
+   macro avg       0.70      0.69      0.69      1000
+weighted avg       0.71      0.70      0.71      1000
+
+Time taken for [512, 256, 128]= 1982.8513469696045
+Epoch 0/500 - Loss: 1.6459
+Epoch 10/500 - Loss: 0.7765
+Epoch 20/500 - Loss: 0.7425
+Epoch 30/500 - Loss: 0.7293
+Epoch 40/500 - Loss: 0.7218
+Epoch 50/500 - Loss: 0.7159
+Epoch 60/500 - Loss: 0.7118
+Epoch 70/500 - Loss: 0.7081
+Epoch 80/500 - Loss: 0.7050
+Epoch 90/500 - Loss: 0.7023
+Epoch 100/500 - Loss: 0.6998
+Epoch 110/500 - Loss: 0.6976
+Epoch 120/500 - Loss: 0.6954
+Epoch 130/500 - Loss: 0.6935
+Epoch 140/500 - Loss: 0.6917
+Epoch 150/500 - Loss: 0.6900
+Epoch 160/500 - Loss: 0.6885
+Epoch 170/500 - Loss: 0.6872
+Epoch 180/500 - Loss: 0.6860
+Epoch 190/500 - Loss: 0.6847
+Epoch 200/500 - Loss: 0.6834
+Epoch 210/500 - Loss: 0.6822
+Epoch 220/500 - Loss: 0.6811
+Epoch 230/500 - Loss: 0.6804
+Epoch 240/500 - Loss: 0.6798
+Within tolerance = 1e-06
+For hidden_size: [512, 256, 128, 64]:
+Train scores:-
+              precision    recall  f1-score   support
+
+           1       0.91      0.88      0.89      2025
+           2       0.73      0.70      0.72      2067
+           3       0.59      0.60      0.60      1944
+           4       0.42      0.56      0.48      1518
+           5       0.82      0.70      0.75      2446
+
+    accuracy                           0.70     10000
+   macro avg       0.69      0.69      0.69     10000
+weighted avg       0.71      0.70      0.70     10000
+
+Test scores:-
+              precision    recall  f1-score   support
+
+           1       0.93      0.91      0.92       234
+           2       0.71      0.71      0.71       199
+           3       0.56      0.61      0.58       185
+           4       0.48      0.51      0.49       176
+           5       0.75      0.68      0.71       206
+
+    accuracy                           0.69      1000
+   macro avg       0.69      0.68      0.68      1000
+weighted avg       0.70      0.69      0.70      1000
+
+Time taken for [512, 256, 128, 64]= 1017.3562724590302
+
+
+For downscale=0.01 relu:
+
